@@ -11,7 +11,7 @@ body{
 }
 .main{
     background-color:rgb(195, 192, 192);
-    height: 700px;
+    height: 1100px;
     width: 900px;    
     margin-top: 26px;
     margin-bottom: 26px;
@@ -34,7 +34,7 @@ p{
     font-family: 'Ubuntu', sans-serif;
     margin-top: 8px;
     margin-bottom: 8px;
-    font-size: 30px;
+    font-size: 60px;
 }
 img{
     position: relative;
