@@ -8,11 +8,12 @@ body{
     display: flex;
     /* align-items: center; */
     justify-content: center;
+   
 }
 .main{
     background-color:rgb(195, 192, 192);
-    height: 1100px;
-    width: 900px;    
+    height: 92vh;
+    width: 75vw;   
     margin-top: 26px;
     margin-bottom: 26px;
     margin-left: 10px;
@@ -34,17 +35,18 @@ p{
     font-family: 'Ubuntu', sans-serif;
     margin-top: 8px;
     margin-bottom: 8px;
-    font-size: 60px;
+    font-size: 5rem;
 }
 img{
-    position: relative;
-    height: 200px;
-    width: 200px;
-    margin: 10px;
+    height: 20rem;
+    width: 20rem;
+   
+    margin: 42px;
     object-fit: cover;
     box-shadow: 1px 1px 5px black;
     border-radius: 8px;
     filter: grayscale(100%);
+    
 }
 img:hover{
     transform: scale(1.2);
